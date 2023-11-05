@@ -5,6 +5,7 @@ BE CAREFUL WITH THE CONNECTIONS, YOU HAVE TO MAKE THE BUTTONS AND INPUTS ON YOUR
 - Already did a very basic tutorial in Unity and found it interesting, wanted to try again. 
 - Interest in space, wanting to create comparisons to better understand space.
 ## What it does
+**Helps visualize the speed of light and its speed relative to massive objects**
 1. Speed - Adjustable speed with speed of light given.
 2. Size - Two adjustable planets in radius.
 3. Orbits - Circular orbit around each planet, also uses speed as input.
