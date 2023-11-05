@@ -1,3 +1,4 @@
+BE CAREFUL WITH THE CONNECTIONS, YOU HAVE TO MAKE THE BUTTONS AND INPUTS ON YOUR OWN
 ## Inspiration
 ### After doing several HTML and Python projects**
 - Still wanting to do a computer science project, but with objects, not just consoles.
